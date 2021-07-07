@@ -1,0 +1,121 @@
+footer{
+    position: fixed;
+    /* left: 0; */
+    bottom: 0;
+    width: 100%;
+    background-color:gray;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-top: 8px solid cadetblue;
+    margin-top: 20px;
+}
+    .card{
+
+    margin: auto;
+    max-width:1000px;
+    margin-top: 5%;
+border: none;
+  }
+  .nav { 
+
+margin-top: 0;
+    background-color:white;
+    justify-content:center;
+  
+
+  }
+  .nav-item{
+
+
+
+    border-right: black solid 1px ;
+  }
+  .nav li:last-child{
+
+border: none;
+
+  }
+  .myName{
+
+
+text-align: center;
+padding: 20px;
+background-color: cadetblue;
+color:white;
+margin-bottom:0;
+
+
+
+  }
+ 
+/* .navdiv{
+
+/* padding: 10px; */
+
+
+
+
+
+.aboutMe{
+
+text-align:left;
+border-bottom: rgba(102, 97, 97, 0.473) 1px solid;
+padding-bottom: 15px;
+padding-top:15px;
+margin: 10px;
+color:cadetblue
+
+
+
+
+}
+.copyright{
+
+
+
+  
+  position: relative;
+  bottom: 0;
+  
+}
+.main-section{
+margin-left: 5%;
+margin-right: 5%;
+/* border: 1px solid gray; */
+background: white;
+max-width: 1250px;
+margin-top: 20px;
+
+
+}
+body{
+
+
+
+  background-image: url(/images/paper.jpeg);
+ 
+  
+  background-repeat: no-repeat;
+
+}
+
+.form-group{
+
+
+padding: 5%;
+margin-top: 30px;
+
+
+}
+.nav-item a{
+
+color: gray;
+
+
+}
+/* @media only screen and (max-width: 768px) {
+  body {
+    background-color: lightblue;
+  }
+} */
